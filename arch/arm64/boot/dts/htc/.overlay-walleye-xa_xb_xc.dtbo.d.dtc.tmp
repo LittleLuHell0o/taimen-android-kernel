@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/htc/overlay-walleye-xa_xb_xc.dtbo: arch/arm64/boot/dts/htc/.overlay-walleye-xa_xb_xc.dtbo.dts.tmp
